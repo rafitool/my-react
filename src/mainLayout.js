@@ -62,7 +62,7 @@ export default function ClippedDrawer() {
       </Drawer>
       <main className={classes.content}>
         <Toolbar />
-        {TableView()}
+        <TableView />
       </main>
     </div>
   );
