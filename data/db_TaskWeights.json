@@ -1,0 +1,8 @@
+[
+	{"ID":"ENTRY_1","Rarity":"Basic","Weight":"1000"},
+	{"ID":"ENTRY_2","Rarity":"Common","Weight":"500"},
+	{"ID":"ENTRY_3","Rarity":"Uncommon","Weight":"250"},
+	{"ID":"ENTRY_4","Rarity":"Rare","Weight":"125"},
+	{"ID":"ENTRY_5","Rarity":"Epic","Weight":"50"},
+	{"ID":"ENTRY_6","Rarity":"Legendary","Weight":"25"}
+]

@@ -1,0 +1,8 @@
+[
+	{"ID":"TELEPORT","Name":"Planned Relocation","Description":"Use this item to move your city to another location.","Atlas":"1","Icon":"nav_city","InventoryCategory":"Special","Usable":"False","PaysFor":"Teleport","Cost":"225","ShowInStore":"True"},
+	{"ID":"ALL_TASK_CHANCE","Name":"All Tasks Chance","Description":"Use this item to refresh your all Specialist tasks.","Atlas":"1","Icon":"Icon_Refresh_Thick","InventoryCategory":"Special","Usable":"False","PaysFor":"ResetTasks","Cost":"70","ShowInStore":"True"},
+	{"ID":"SPECIALIST_TASK_CHANCE","Name":"Specialist's Chance","Description":"Use this item to refresh a Specialist's tasks.","Atlas":"1","Icon":"Icon_Refresh_Thick","InventoryCategory":"Special","Usable":"False","PaysFor":"ResetSpecialistTasks","Cost":"15","ShowInStore":"True"},
+	{"ID":"RESET_PLAYER_TREE","Name":"Player Tree Reset","Description":"Use this item to reset your player tree.","Atlas":"1","Icon":"Icon_Element_Cu","InventoryCategory":"Special","Usable":"False","PaysFor":"ResetPlayerTree","Cost":"120","ShowInStore":"True"},
+	{"ID":"CHANGE_COMPOUND_NAME","Name":"Rename Compound","Description":"Use this item to rename your compound.","Atlas":"1","Icon":"Icon_Element_Fe","InventoryCategory":"Special","Usable":"False","PaysFor":"ChangeCompoundName","Cost":"12","ShowInStore":"True"},
+	{"ID":"MISSION_RECALL","Name":"Mission Recall","Description":"Use this item to recall an outgoing mission.","Atlas":"1","Icon":"Icon_UTurnSign","InventoryCategory":"Special","Usable":"False","PaysFor":"MissionRecall","Cost":"0","ShowInStore":"True"}
+]

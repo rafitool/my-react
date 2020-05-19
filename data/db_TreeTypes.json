@@ -1,0 +1,9 @@
+[
+	{"ID":"Economy","Name":"Economy","Description":"The Economy Tree focuses on economic activities within the your city","IsVisible":"True","IsLocked":"False","Renown Requirement":"","IsPlayerTree":"False"},
+	{"ID":"Specialist","Name":"Specialist","Description":"The Specialist Tree focuses on modifying your Specialists' progression","IsVisible":"True","IsLocked":"False","Renown Requirement":"","IsPlayerTree":"False"},
+	{"ID":"Attack","Name":"Combat","Description":"The Combat Tree focuses on specialist combat strength","IsVisible":"True","IsLocked":"False","Renown Requirement":"","IsPlayerTree":"False"},
+	{"ID":"Missions","Name":"Missions","Description":"The Mission Tree focuses on missions and modifying their parameters","IsVisible":"True","IsLocked":"False","Renown Requirement":"","IsPlayerTree":"False"},
+	{"ID":"StreetRep","Name":"Street Rep","Description":"The Street Reputation Tree grants bonuses related to overt and overpowering action","IsVisible":"True","IsLocked":"False","Renown Requirement":"2500","IsPlayerTree":"False"},
+	{"ID":"ShadowRep","Name":"Shadow Rep","Description":"The Shadow Reputation Tree grants bonuses related to subtlety and leadership","IsVisible":"True","IsLocked":"False","Renown Requirement":"-2500","IsPlayerTree":"False"},
+	{"ID":"PlayerTree","Name":"Player Tree","Description":"This is an example of what the player skill tree could look like","IsVisible":"True","IsLocked":"False","Renown Requirement":"","IsPlayerTree":"True"}
+]

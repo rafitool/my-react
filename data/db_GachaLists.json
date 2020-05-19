@@ -1,0 +1,5 @@
+[
+	{"ID":"CommonGacha","Name":"Basic Call","Description":"Guaranteed [99CC33]1-Star[ffffff] to [99CC33]4-Star[ffffff] Specialist","RangeString":"1-4","TilePrefab":"Burner_Basic","FrontPrefab":"Selected_Basic","Cost":"5000","Currency":"SOFT_4"},
+	{"ID":"PremiumGacha","Name":"Killer Call","Description":"Guaranteed [99CC33]2-Star[ffffff] to [99CC33]5-Star[ffffff] Specialist","RangeString":"2-5","TilePrefab":"Burner_Killer","FrontPrefab":"Selected_Killer","Cost":"30","Currency":"HARD_1"},
+	{"ID":"HighPremiumGacha","Name":"Epic Call","Description":"Guaranteed [99CC33]3-Star[ffffff] to [99CC33]5-Star[ffffff] Specialist","RangeString":"3-5","TilePrefab":"Burner_Epic","FrontPrefab":"Selected_Epic","Cost":"60","Currency":"HARD_1"}
+]

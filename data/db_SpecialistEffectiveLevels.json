@@ -1,0 +1,11 @@
+[
+	{"ID":"1N","EvolutionTier":"0","BaseRarity":"1","BaseEffectiveLevel":"0"},
+	{"ID":"2E","EvolutionTier":"1","BaseRarity":"1","BaseEffectiveLevel":"10"},
+	{"ID":"2N","EvolutionTier":"0","BaseRarity":"2","BaseEffectiveLevel":"19"},
+	{"ID":"3E","EvolutionTier":"1","BaseRarity":"2","BaseEffectiveLevel":"38"},
+	{"ID":"3N","EvolutionTier":"0","BaseRarity":"3","BaseEffectiveLevel":"58"},
+	{"ID":"4E","EvolutionTier":"1","BaseRarity":"3","BaseEffectiveLevel":"87"},
+	{"ID":"4N","EvolutionTier":"0","BaseRarity":"4","BaseEffectiveLevel":"117"},
+	{"ID":"5E","EvolutionTier":"1","BaseRarity":"4","BaseEffectiveLevel":"156"},
+	{"ID":"5N","EvolutionTier":"0","BaseRarity":"5","BaseEffectiveLevel":"196"}
+]

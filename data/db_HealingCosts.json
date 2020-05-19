@@ -1,0 +1,8 @@
+[
+	{"Tier":"1","SecondsToHeal":"120","DirtyCashPerHP":"6","CleanCashPerHP":"2.5"},
+	{"Tier":"2","SecondsToHeal":"450","DirtyCashPerHP":"18","CleanCashPerHP":"7.5"},
+	{"Tier":"3","SecondsToHeal":"1500","DirtyCashPerHP":"36","CleanCashPerHP":"15"},
+	{"Tier":"4","SecondsToHeal":"3900","DirtyCashPerHP":"50","CleanCashPerHP":"25"},
+	{"Tier":"5","SecondsToHeal":"9300","DirtyCashPerHP":"75","CleanCashPerHP":"37.5"},
+	{"Tier":"6","SecondsToHeal":"20700","DirtyCashPerHP":"105","CleanCashPerHP":"52.5"}
+]

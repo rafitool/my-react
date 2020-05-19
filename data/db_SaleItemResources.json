@@ -1,0 +1,7 @@
+[
+	{"ProductID":"iap_kingpin","Resource_Description":"+50 XP","Resource":"XP","Resource_Amount":"50","Resource_Count":"1","Resource_Icon":"button_upgrade_sprite"},
+	{"ProductID":"iap_kingpin","Resource_Description":"1 Hour Speed up","Resource":"SPEEDUP_60","Resource_Amount":"1","Resource_Count":"10","Resource_Icon":"Icon_SpeedUp_Large"},
+	{"ProductID":"iap_kingpin","Resource_Description":"25,000 Supply","Resource":"SOFT_1","Resource_Amount":"25000","Resource_Count":"1","Resource_Icon":"BB_UI_Icons_Rss_Crate"},
+	{"ProductID":"iap_kingpin","Resource_Description":"20,000 Dirty Cash","Resource":"SOFT_3","Resource_Amount":"20000","Resource_Count":"1","Resource_Icon":"BB_UI_Icons_Rss_DirtyCash"},
+	{"ProductID":"iap_kingpin","Resource_Description":"25,000 Product","Resource":"SOFT_2","Resource_Amount":"25000","Resource_Count":"1","Resource_Icon":"BB_UI_Icons_Rss_Product"}
+]

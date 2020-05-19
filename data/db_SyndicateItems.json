@@ -1,0 +1,20 @@
+[
+	{"SyndicatePoints":"175","SyndicateFunds":"175","ID":"PRODUCTION_SUPPLY_SMALL"},
+	{"SyndicatePoints":"225","SyndicateFunds":"225","ID":"PRODUCTION_PRODUCT_SMALL"},
+	{"SyndicatePoints":"300","SyndicateFunds":"300","ID":"PRODUCTION_DIRTY_CASH_SMALL"},
+	{"SyndicatePoints":"400","SyndicateFunds":"400","ID":"PRODUCTION_CLEAN_CASH_SMALL"},
+	{"SyndicatePoints":"25","SyndicateFunds":"25","ID":"SPEEDUP_1m"},
+	{"SyndicatePoints":"160","SyndicateFunds":"160","ID":"SPEEDUP_15m"},
+	{"SyndicatePoints":"400","SyndicateFunds":"400","ID":"SPEEDUP_1h"},
+	{"SyndicatePoints":"1000","SyndicateFunds":"1000","ID":"SPEEDUP_25p"},
+	{"SyndicatePoints":"2000","SyndicateFunds":"2000","ID":"SPEEDUP_50p"},
+	{"SyndicatePoints":"4000","SyndicateFunds":"4000","ID":"SPEEDUP_75p"},
+	{"SyndicatePoints":"350","SyndicateFunds":"350","ID":"SHIELD_PEACE_8h"},
+	{"SyndicatePoints":"250","SyndicateFunds":"250","ID":"SHIELD_ANTISCOUT_1d"},
+	{"SyndicatePoints":"300","SyndicateFunds":"300","ID":"RANDOM_TELEPORT"},
+	{"SyndicatePoints":"500","SyndicateFunds":"500","ID":"TELEPORT"},
+	{"SyndicatePoints":"100","SyndicateFunds":"100","ID":"RESET_PLAYER_TREE"},
+	{"SyndicatePoints":"80","SyndicateFunds":"80","ID":"MISSION_RECALL"},
+	{"SyndicatePoints":"150","SyndicateFunds":"150","ID":"MARCH_SPEED_100_15m"},
+	{"SyndicatePoints":"75","SyndicateFunds":"75","ID":"SUPPLY_20000"}
+]

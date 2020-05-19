@@ -1,0 +1,13 @@
+[
+	{"ID":"Resource_Supply","CommonDescription":"Increases supply production rate","LongDescription":"Buy this and life will be awsome! Increases supply production rate"},
+	{"ID":"Resource_Product","CommonDescription":"Increases product production rate","LongDescription":"Buy this and life will be awsome! Increases product production rate"},
+	{"ID":"Resource_Dirty_Cash","CommonDescription":"Increases dirty cash production rate","LongDescription":"Buy this and life will be awsome! Increases dirty cash production rate"},
+	{"ID":"Resource_Clean_Cash","CommonDescription":"Increases clean cash production rate","LongDescription":"Buy this and life will be awsome! Increases clean cash production rate"},
+	{"ID":"City_Construction","CommonDescription":"Increases city construction rate","LongDescription":"Long Description - PLACEHOLDER"},
+	{"ID":"City_Research","CommonDescription":"Increases city research rate","LongDescription":"Long Description - PLACEHOLDER"},
+	{"ID":"Combat_Attack","CommonDescription":"Increases specialist attack","LongDescription":"Long Description - PLACEHOLDER"},
+	{"ID":"Combat_Defence","CommonDescription":"Increases specialist defense","LongDescription":"Long Description - PLACEHOLDER"},
+	{"ID":"Combat_March_Speed","CommonDescription":"Increases mission speed","LongDescription":"Long Description - PLACEHOLDER"},
+	{"ID":"Shield_Peace","CommonDescription":"Prevents other players from attacking or reconning your city","LongDescription":"Long Description - PLACEHOLDER"},
+	{"ID":"Shield_Antiscout","CommonDescription":"Prevents other players from reconning your city","LongDescription":"Long Description - PLACEHOLDER"}
+]

@@ -1,0 +1,20 @@
+[
+	{"ID":"Table1","Rank":"1","Common":"0.04","Uncommon":"0.08","Rare":"0.12","Epic":"0.16","Legendary":"0.2"},
+	{"ID":"*","Rank":"2","Common":"0.08","Uncommon":"0.12","Rare":"0.16","Epic":"0.2","Legendary":"0.24"},
+	{"ID":"*","Rank":"3","Common":"","Uncommon":"0.16","Rare":"0.2","Epic":"0.24","Legendary":"0.28"},
+	{"ID":"*","Rank":"4","Common":"","Uncommon":"","Rare":"0.24","Epic":"0.28","Legendary":"0.32"},
+	{"ID":"*","Rank":"5","Common":"","Uncommon":"","Rare":"","Epic":"0.32","Legendary":"0.36"},
+	{"ID":"*","Rank":"6","Common":"","Uncommon":"","Rare":"","Epic":"","Legendary":"0.4"},
+	{"ID":"Table2","Rank":"1","Common":"40","Uncommon":"80","Rare":"120","Epic":"160","Legendary":"200"},
+	{"ID":"*","Rank":"2","Common":"80","Uncommon":"120","Rare":"160","Epic":"200","Legendary":"240"},
+	{"ID":"*","Rank":"3","Common":"","Uncommon":"160","Rare":"200","Epic":"240","Legendary":"280"},
+	{"ID":"*","Rank":"4","Common":"","Uncommon":"","Rare":"240","Epic":"280","Legendary":"320"},
+	{"ID":"*","Rank":"5","Common":"","Uncommon":"","Rare":"","Epic":"320","Legendary":"360"},
+	{"ID":"*","Rank":"6","Common":"","Uncommon":"","Rare":"","Epic":"","Legendary":"400"},
+	{"ID":"Table3","Rank":"1","Common":"1","Uncommon":"1","Rare":"1","Epic":"1","Legendary":"1"},
+	{"ID":"*","Rank":"2","Common":"1","Uncommon":"1","Rare":"1","Epic":"1","Legendary":"1"},
+	{"ID":"*","Rank":"3","Common":"","Uncommon":"1","Rare":"1","Epic":"1","Legendary":"1"},
+	{"ID":"*","Rank":"4","Common":"","Uncommon":"","Rare":"1","Epic":"1","Legendary":"1"},
+	{"ID":"*","Rank":"5","Common":"","Uncommon":"","Rare":"","Epic":"1","Legendary":"1"},
+	{"ID":"*","Rank":"6","Common":"","Uncommon":"","Rare":"","Epic":"","Legendary":"1"}
+]

@@ -1,0 +1,8 @@
+[
+	{"ProductID":"iap_499","Description":"","Percent":"","Type":"Regular","Original_Cost":"4.99","Cost":"4.99","Credit":"50","Additional_Credit":"0","Start_Time":"30, Jul 2013","End_Time":"30, Jul 2023"},
+	{"ProductID":"iap_999","Description":"HOT!","Percent":"","Type":"Regular","Original_Cost":"9.99","Cost":"9.99","Credit":"100","Additional_Credit":"0","Start_Time":"30, Jul 2013","End_Time":"30, Jul 2023"},
+	{"ProductID":"iap_1999","Description":"POPULAR!","Percent":"","Type":"Regular","Original_Cost":"19.99","Cost":"19.99","Credit":"200","Additional_Credit":"40","Start_Time":"30, Jul 2013","End_Time":"30, Jul 2023"},
+	{"ProductID":"iap_4999","Description":"SPECIAL!","Percent":"","Type":"Regular","Original_Cost":"49.99","Cost":"49.99","Credit":"500","Additional_Credit":"175","Start_Time":"30, Jul 2013","End_Time":"30, Jul 2023"},
+	{"ProductID":"iap_9999","Description":"BEST VALUE!","Percent":"","Type":"Regular","Original_Cost":"99.99","Cost":"99.99","Credit":"1000","Additional_Credit":"500","Start_Time":"30, Jul 2013","End_Time":"30, Jul 2023"},
+	{"ProductID":"iap_kingpin","Description":"Kingpin Deal","Percent":"1656%","Type":"Special","Original_Cost":"199.99","Cost":"149.99","Credit":"2000","Additional_Credit":"1000","Start_Time":"30, Jul 2013","End_Time":"30, Jul 2016"}
+]

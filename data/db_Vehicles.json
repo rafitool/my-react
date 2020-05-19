@@ -1,0 +1,12 @@
+[
+	{"ID":"Tolteca_01","Name":"Tolteca","Tier":"1","GarageLevel":"1","SpecialistSlots":"4","Capacity":"10000","Speed":"0.727272727272727","Sprite":"Vehicle_Icon_01","SpriteMap":"","StoreCost":"50000","StoreCurrency":"SOFT_4","Model":"SUV"},
+	{"ID":"Hawk_01","Name":"Hawk","Tier":"1","GarageLevel":"1","SpecialistSlots":"4","Capacity":"5000","Speed":"1.09090909090909","Sprite":"Vehicle_Icon_02","SpriteMap":"","StoreCost":"125000","StoreCurrency":"SOFT_4","Model":"Fiero"},
+	{"ID":"Pioneer_01","Name":"Pioneer","Tier":"2","GarageLevel":"6","SpecialistSlots":"4","Capacity":"350000","Speed":"0.681818181818182","Sprite":"Vehicle_Icon_03","SpriteMap":"","StoreCost":"3650000","StoreCurrency":"SOFT_4","Model":"DeliveryTruck_01"},
+	{"ID":"Monaco_01","Name":"Monaco","Tier":"2","GarageLevel":"6","SpecialistSlots":"4","Capacity":"25000","Speed":"1.59090909090909","Sprite":"Vehicle_Icon_04","SpriteMap":"","StoreCost":"6250000","StoreCurrency":"SOFT_4","Model":"DeliveryTruck_01"},
+	{"ID":"Contender_01","Name":"Contender","Tier":"3","GarageLevel":"11","SpecialistSlots":"4","Capacity":"50000","Speed":"2.18181818181818","Sprite":"Vehicle_Icon_05","SpriteMap":"","StoreCost":"35000000","StoreCurrency":"SOFT_4","Model":"SportsCar_02"},
+	{"ID":"Seville_01","Name":"Caddy Seville","Tier":"3","GarageLevel":"11","SpecialistSlots":"4","Capacity":"15000","Speed":"1.22727272727273","Sprite":"Vehicle_Icon_06","SpriteMap":"","StoreCost":"1000000","StoreCurrency":"SOFT_4","Model":"Sedan_01"},
+	{"ID":"Border_01","Name":"Free Border","Tier":"4","GarageLevel":"16","SpecialistSlots":"4","Capacity":"1000000","Speed":"0.545454545454545","Sprite":"Vehicle_Icon_07","SpriteMap":"","StoreCost":"6500000","StoreCurrency":"SOFT_4","Model":"SUV"},
+	{"ID":"LS_01","Name":"300 LS-8","Tier":"4","GarageLevel":"16","SpecialistSlots":"4","Capacity":"75000","Speed":"1.90909090909091","Sprite":"Vehicle_Icon_08","SpriteMap":"","StoreCost":"35000000","StoreCurrency":"SOFT_4","Model":"SportsCar_02"},
+	{"ID":"Ascend_01","Name":"Ascend","Tier":"5","GarageLevel":"21","SpecialistSlots":"4","Capacity":"500000","Speed":"0.909090909090909","Sprite":"Vehicle_Icon_09","SpriteMap":"","StoreCost":"12500000","StoreCurrency":"SOFT_4","Model":"Fiero"},
+	{"ID":"Pollos_01","Name":"Delivery Truck","Tier":"5","GarageLevel":"21","SpecialistSlots":"4","Capacity":"10000000","Speed":"0.363636363636364","Sprite":"Vehicle_Icon_10","SpriteMap":"","StoreCost":"6000000","StoreCurrency":"SOFT_4","Model":"DeliveryTruck_01"}
+]

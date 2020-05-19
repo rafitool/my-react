@@ -1,0 +1,6 @@
+[
+	{"ID":"0","Name":"Shard1","Width":"100","Height":"100","DensityTemplate":"High","BlueprintsId":"0","Status":"Open","MaxCapacityPct":"12"},
+	{"ID":"1","Name":"Sahrd2","Width":"50","Height":"50","DensityTemplate":"Medium","BlueprintsId":"1","Status":"Closed","MaxCapacityPct":"12"},
+	{"ID":"2","Name":"Shard3","Width":"150","Height":"150","DensityTemplate":"Medium","BlueprintsId":"2","Status":"Closed","MaxCapacityPct":"12"},
+	{"ID":"3","Name":"Shard4","Width":"200","Height":"200","DensityTemplate":"Low","BlueprintsId":"3","Status":"Closed","MaxCapacityPct":"12"}
+]

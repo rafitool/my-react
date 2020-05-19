@@ -1,0 +1,8 @@
+[
+	{"Rank":"1","Supplier":"0.02","Scientist":"0.05","Launderer":"0.015","Distributor":"0.05","Enforcer":"0.05"},
+	{"Rank":"2","Supplier":"0.05","Scientist":"0.08","Launderer":"0.03","Distributor":"0.08","Enforcer":"0.08"},
+	{"Rank":"3","Supplier":"0.09","Scientist":"0.12","Launderer":"0.045","Distributor":"0.12","Enforcer":"0.12"},
+	{"Rank":"4","Supplier":"0.12","Scientist":"0.15","Launderer":"0.06","Distributor":"0.15","Enforcer":"0.15"},
+	{"Rank":"5","Supplier":"0.15","Scientist":"0.2","Launderer":"0.075","Distributor":"0.2","Enforcer":"0.2"},
+	{"Rank":"6","Supplier":"0.2","Scientist":"0.25","Launderer":"0.09","Distributor":"0.25","Enforcer":"0.25"}
+]

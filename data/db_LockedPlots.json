@@ -1,0 +1,10 @@
+[
+	{"id":"0","compound_level":"0","cost":"0","resource_type":""},
+	{"id":"1","compound_level":"3","cost":"30000","resource_type":"SOFT_4"},
+	{"id":"2","compound_level":"6","cost":"240000","resource_type":"SOFT_3"},
+	{"id":"3","compound_level":"9","cost":"500000","resource_type":"SOFT_4"},
+	{"id":"4","compound_level":"12","cost":"6000000","resource_type":"SOFT_3"},
+	{"id":"5","compound_level":"15","cost":"15000000","resource_type":"SOFT_4"},
+	{"id":"6","compound_level":"18","cost":"100000000","resource_type":"SOFT_3"},
+	{"id":"7","compound_level":"25","cost":"2250000000","resource_type":"SOFT_3"}
+]

@@ -1,0 +1,13 @@
+[
+	{"Upgrade Table Name":"Scouting","Upgrade Level":"0","Soft 1 Cost":"0","Soft 2 Cost":"0","Soft 3 Cost":"0","Soft 4 Cost":"0","Building Level Requirement":"0","Upgrade Duration":"0","XP Reward":"100","SendingCost":"500","Speed":"1"},
+	{"Upgrade Table Name":"Scouting","Upgrade Level":"1","Soft 1 Cost":"0","Soft 2 Cost":"0","Soft 3 Cost":"0","Soft 4 Cost":"0","Building Level Requirement":"0","Upgrade Duration":"15","XP Reward":"200","SendingCost":"460","Speed":"1.2"},
+	{"Upgrade Table Name":"Scouting","Upgrade Level":"2","Soft 1 Cost":"0","Soft 2 Cost":"0","Soft 3 Cost":"0","Soft 4 Cost":"0","Building Level Requirement":"0","Upgrade Duration":"30","XP Reward":"300","SendingCost":"420","Speed":"1.4"},
+	{"Upgrade Table Name":"Scouting","Upgrade Level":"3","Soft 1 Cost":"0","Soft 2 Cost":"0","Soft 3 Cost":"0","Soft 4 Cost":"0","Building Level Requirement":"0","Upgrade Duration":"45","XP Reward":"400","SendingCost":"380","Speed":"1.6"},
+	{"Upgrade Table Name":"Scouting","Upgrade Level":"4","Soft 1 Cost":"0","Soft 2 Cost":"0","Soft 3 Cost":"0","Soft 4 Cost":"0","Building Level Requirement":"0","Upgrade Duration":"60","XP Reward":"500","SendingCost":"340","Speed":"1.8"},
+	{"Upgrade Table Name":"Scouting","Upgrade Level":"5","Soft 1 Cost":"0","Soft 2 Cost":"0","Soft 3 Cost":"0","Soft 4 Cost":"0","Building Level Requirement":"0","Upgrade Duration":"75","XP Reward":"600","SendingCost":"300","Speed":"2"},
+	{"Upgrade Table Name":"Scouting","Upgrade Level":"6","Soft 1 Cost":"0","Soft 2 Cost":"0","Soft 3 Cost":"0","Soft 4 Cost":"0","Building Level Requirement":"0","Upgrade Duration":"90","XP Reward":"700","SendingCost":"260","Speed":"2.2"},
+	{"Upgrade Table Name":"Scouting","Upgrade Level":"7","Soft 1 Cost":"0","Soft 2 Cost":"0","Soft 3 Cost":"0","Soft 4 Cost":"0","Building Level Requirement":"0","Upgrade Duration":"105","XP Reward":"800","SendingCost":"220","Speed":"2.4"},
+	{"Upgrade Table Name":"Scouting","Upgrade Level":"8","Soft 1 Cost":"0","Soft 2 Cost":"0","Soft 3 Cost":"0","Soft 4 Cost":"0","Building Level Requirement":"0","Upgrade Duration":"120","XP Reward":"900","SendingCost":"180","Speed":"2.6"},
+	{"Upgrade Table Name":"Scouting","Upgrade Level":"9","Soft 1 Cost":"0","Soft 2 Cost":"0","Soft 3 Cost":"0","Soft 4 Cost":"0","Building Level Requirement":"0","Upgrade Duration":"135","XP Reward":"1000","SendingCost":"140","Speed":"2.8"},
+	{"Upgrade Table Name":"Scouting","Upgrade Level":"10","Soft 1 Cost":"0","Soft 2 Cost":"0","Soft 3 Cost":"0","Soft 4 Cost":"0","Building Level Requirement":"0","Upgrade Duration":"150","XP Reward":"1100","SendingCost":"160","Speed":"3"}
+]
